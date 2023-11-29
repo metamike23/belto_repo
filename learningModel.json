@@ -1,0 +1,1918 @@
+[
+    {
+        "text": "City or Town, state or province",
+        "category": "address label"
+    },
+
+    {
+        "text": "country",
+        "category": "address label"
+    },
+
+    {
+        "text": "postal code",
+        "category": "address label"
+    },
+
+    {
+        "text": "mailing address",
+        "category": "address label"
+    },
+
+    {
+        "text": "Permanent residence address",
+        "category": "address label"
+    },
+
+    {
+        "text": "First Name",
+        "category": "name label"
+    },
+
+    {
+        "text": "Last Name",
+        "category": "name label"
+    },
+
+    {
+        "text": "Full Name",
+        "category": "name label"
+    },
+
+    {
+        "text": "Individual",
+        "category": "name label"
+    },
+
+    {
+        "text": "Date of birth",
+        "category": "dob label"
+    },
+
+    {
+        "text": "birthday",
+        "category": "dob label"
+    },
+
+    {
+        "text": "MM-DD-YYYY",
+        "category": "date label"
+    },
+
+    {
+        "text": "sign here",
+        "category": "signature label"
+    },
+
+    {
+        "text": "signature",
+        "category": "signature label"
+    },
+
+    {
+        "text": "email",
+        "category": "email label"
+    },
+
+    {
+        "text": "@",
+        "category": "email label"
+    },
+
+    {
+        "text": "phone number",
+        "category": "phone number label"
+    },
+
+    {
+        "text": "price",
+        "category": "dollar amount label"
+    },
+
+    {
+        "text": "$",
+        "category": "dollar amount label"
+    },
+
+    {
+        "text": "USD",
+        "category": "dollar amount label"
+    },
+
+    {
+        "text": "check the box",
+        "category": "check box label"
+    },
+
+    {
+        "text": "choose",
+        "category": "check box label"
+    },
+
+    {
+        "text": "all that apply",
+        "category": "check box label"
+    },
+
+    {
+        "text": "Yes / No",
+        "category": "check box label"
+    },
+
+    {
+        "text": "male, female",
+        "category": "gender label"
+    },
+
+    {
+        "text": "gender, sex",
+        "category": "gender label"
+    },
+
+    {
+        "text": "please, enter",
+        "category": "text input label"
+    }, 
+
+    {
+        "text": "see instructions",
+        "category": "text input label"
+    },
+
+    {
+        "text": "Employer Name",
+        "category": "employer label"
+    },
+
+    {
+        "text": "Company",
+        "category": "employer label"
+    },
+
+    {
+        "text": "Organization",
+        "category": "employer label"
+    },
+
+    {
+        "text": "Account Number",
+        "category": "financial label"
+    },
+
+    {
+        "text": "Bank Account",
+        "category": "financial label"
+    },
+
+    {
+        "text": "Routing Number",
+        "category": "financial label"
+    },
+
+    {
+        "text": "Social Security Number",
+        "category": "identification number label"
+    },
+
+    {
+        "text": "Passport Number",
+        "category": "identification number label"
+    },
+
+    {
+        "text": "Driver's License Number",
+        "category": "identification number label"
+    },
+
+    {
+        "text": "Vehicle Identification Number (VIN)",
+        "category": "identification number label"
+    },
+
+    {
+        "text": "Terms and Conditions",
+        "category": "legal document label"
+    },
+
+    {
+        "text": "Privacy Policy",
+        "category": "legal document label"
+    },
+
+    {
+        "text": "Agreement",
+        "category": "legal document label"
+    },
+
+    {
+        "text": "Expiration Date",
+        "category": "date label"
+    },
+
+    {
+        "text": "Issue Date",
+        "category": "date label"
+    },
+
+    {
+        "text": "Patient Name",
+        "category": "medical label"
+    },
+
+    {
+        "text": "Medical Record Number",
+        "category": "medical label"
+    },
+
+    {
+        "text": "Prescription",
+        "category": "medical label"
+    },
+
+    {
+        "text": "Diagnosis",
+        "category": "medical label"
+    },
+
+    {
+        "text": "Treatment",
+        "category": "medical label"
+    },
+
+    {
+        "text": "Height",
+        "category": "biometric label"
+    },
+
+    {
+        "text": "Weight",
+        "category": "biometric label"
+    },
+
+    {
+        "text": "Blood Type",
+        "category": "biometric label"
+    },
+
+    {
+        "text": "Eye Color",
+        "category": "biometric label"
+    },
+
+    {
+        "text": "Marital Status",
+        "category": "personal information label"
+    },
+
+    {
+        "text": "Nationality",
+        "category": "personal information label"
+    },
+
+    {
+        "text": "Ethnicity",
+        "category": "personal information label"
+    },
+
+    {
+        "text": "Religion",
+        "category": "personal information label"
+    },
+
+    {
+        "text": "Education Level",
+        "category": "educational information label"
+    },
+
+    {
+        "text": "Degree Obtained",
+        "category": "educational information label"
+    },
+
+    {
+        "text": "School Name",
+        "category": "educational information label"
+    },
+
+    {
+        "text": "Major",
+        "category": "educational information label"
+    },
+
+    {
+        "text": "Graduation Date",
+        "category": "educational information label"
+    },
+
+    {
+        "text": "Emergency Contact",
+        "category": "contact information label"
+    },
+
+    {
+        "text": "Contact Name",
+        "category": "contact information label"
+    },
+
+    {
+        "text": "Relationship",
+        "category": "contact information label"
+    },
+
+    {
+        "text": "Alternate Phone",
+        "category": "phone number label"
+    },
+
+    {
+        "text": "Fax",
+        "category": "phone number label"
+    },
+
+    {
+        "text": "Vehicle Make",
+        "category": "vehicle information label"
+    },
+
+    {
+        "text": "Vehicle Model",
+        "category": "vehicle information label"
+    },
+
+    {
+        "text": "License Plate",
+        "category": "vehicle information label"
+    },
+
+    {
+        "text": "Year of Manufacture",
+        "category": "vehicle information label"
+    },
+
+    {
+        "text": "Skill",
+        "category": "professional information label"
+    },
+
+    {
+        "text": "Experience",
+        "category": "professional information label"
+    },
+
+    {
+        "text": "Certification",
+        "category": "professional information label"
+    },
+
+    {
+        "text": "Reference",
+        "category": "professional information label"
+    },
+
+    {
+        "text": "Objective",
+        "category": "resume label"
+    },
+
+    {
+        "text": "Career Summary",
+        "category": "resume label"
+    },
+
+    {
+        "text": "Employment History",
+        "category": "resume label"
+    },
+
+    {
+        "text": "Cover Letter",
+        "category": "resume label"
+    },
+
+    {
+        "text": "Visa Status",
+        "category": "immigration label"
+    },
+
+    {
+        "text": "Citizenship",
+        "category": "immigration label"
+    },
+
+    {
+        "text": "Passport Issuing Country",
+        "category": "immigration label"
+    },
+
+    {
+        "text": "Immigration File Number",
+        "category": "immigration label"
+    },
+
+    {
+        "text": "Travel History",
+        "category": "travel information label"
+    },
+
+    {
+        "text": "Departure Date",
+        "category": "travel information label"
+    },
+
+    {
+        "text": "Return Date",
+        "category": "travel information label"
+    },
+
+    {
+        "text": "Destination",
+        "category": "travel information label"
+    },
+
+    {
+        "text": "Flight Number",
+        "category": "travel information label"
+    },
+
+    {
+        "text": "Education Level",
+        "category": "educational information label"
+    },
+
+    {
+        "text": "Degree Obtained",
+        "category": "educational information label"
+    },
+
+    {
+        "text": "School Name",
+        "category": "educational information label"
+    },
+
+    {
+        "text": "Major",
+        "category": "educational information label"
+    },
+
+    {
+        "text": "Graduation Date",
+        "category": "educational information label"
+    },
+
+    {
+        "text": "Emergency Contact",
+        "category": "contact information label"
+    },
+
+    {
+        "text": "Contact Name",
+        "category": "contact information label"
+    },
+
+    {
+        "text": "Relationship",
+        "category": "contact information label"
+    },
+
+    {
+        "text": "Alternate Phone",
+        "category": "phone number label"
+    },
+
+    {
+        "text": "Fax",
+        "category": "phone number label"
+    },
+
+    {
+        "text": "Vehicle Make",
+        "category": "vehicle information label"
+    },
+
+    {
+        "text": "Vehicle Model",
+        "category": "vehicle information label"
+    },
+
+    {
+        "text": "License Plate",
+        "category": "vehicle information label"
+    },
+
+    {
+        "text": "Year of Manufacture",
+        "category": "vehicle information label"
+    },
+
+    {
+        "text": "Skill",
+        "category": "professional information label"
+    },
+
+    {
+        "text": "Experience",
+        "category": "professional information label"
+    },
+
+    {
+        "text": "Certification",
+        "category": "professional information label"
+    },
+
+    {
+        "text": "Reference",
+        "category": "professional information label"
+    },
+
+    {
+        "text": "Objective",
+        "category": "resume label"
+    },
+
+    {
+        "text": "Career Summary",
+        "category": "resume label"
+    },
+
+    {
+        "text": "Employment History",
+        "category": "resume label"
+    },
+
+    {
+        "text": "Cover Letter",
+        "category": "resume label"
+    },
+
+    {
+        "text": "Visa Status",
+        "category": "immigration label"
+    },
+
+    {
+        "text": "Citizenship",
+        "category": "immigration label"
+    },
+
+    {
+        "text": "Passport Issuing Country",
+        "category": "immigration label"
+    },
+
+    {
+        "text": "Immigration File Number",
+        "category": "immigration label"
+    },
+
+    {
+        "text": "Travel History",
+        "category": "travel information label"
+    },
+
+    {
+        "text": "Departure Date",
+        "category": "travel information label"
+    },
+
+    {
+        "text": "Return Date",
+        "category": "travel information label"
+    },
+
+    {
+        "text": "Destination",
+        "category": "travel information label"
+    },
+
+    {
+        "text": "Flight Number",
+        "category": "travel information label"
+    },
+
+    {
+        "text": "Asset Value",
+        "category": "financial information label"
+    },
+
+    {
+        "text": "Investment Type",
+        "category": "financial information label"
+    },
+
+    {
+        "text": "Portfolio",
+        "category": "financial information label"
+    },
+
+    {
+        "text": "Credit Score",
+        "category": "financial information label"
+    },
+
+    {
+        "text": "Debt Amount",
+        "category": "financial information label"
+    },
+
+    {
+        "text": "Interest Rate",
+        "category": "financial information label"
+    },
+
+    {
+        "text": "Loan Amount",
+        "category": "financial information label"
+    },
+
+    {
+        "text": "Mortgage Details",
+        "category": "financial information label"
+    },
+
+    {
+        "text": "Insurance Policy Number",
+        "category": "insurance information label"
+    },
+
+    {
+        "text": "Coverage Type",
+        "category": "insurance information label"
+    },
+
+    {
+        "text": "Beneficiary",
+        "category": "insurance information label"
+    },
+
+    {
+        "text": "Policy Expiry",
+        "category": "insurance information label"
+    },
+
+    {
+        "text": "Claim Number",
+        "category": "insurance information label"
+    },
+
+    {
+        "text": "Insured Amount",
+        "category": "insurance information label"
+    },
+
+    {
+        "text": "Prescribing Physician",
+        "category": "medical label"
+    },
+
+    {
+        "text": "Allergies",
+        "category": "medical label"
+    },
+
+    {
+        "text": "Medication",
+        "category": "medical label"
+    },
+
+    {
+        "text": "Dosage",
+        "category": "medical label"
+    },
+
+    {
+        "text": "Test Results",
+        "category": "medical label"
+    },
+
+    {
+        "text": "Vaccination Date",
+        "category": "medical label"
+    },
+
+    {
+        "text": "Symptoms",
+        "category": "medical label"
+    },
+
+    {
+        "text": "Procedure",
+        "category": "medical label"
+    },
+
+    {
+        "text": "Appointment Date",
+        "category": "medical label"
+    },
+
+    {
+        "text": "Lab Report",
+        "category": "medical label"
+    },
+
+    {
+        "text": "Dietary Preferences",
+        "category": "personal information label"
+    },
+
+    {
+        "text": "Hobbies",
+        "category": "personal information label"
+    },
+
+    {
+        "text": "Languages Spoken",
+        "category": "personal information label"
+    },
+
+    {
+        "text": "Membership ID",
+        "category": "membership information label"
+    },
+
+    {
+        "text": "Club Name",
+        "category": "membership information label"
+    },
+
+    {
+        "text": "Join Date",
+        "category": "membership information label"
+    },
+
+    {
+        "text": "Membership Level",
+        "category": "membership information label"
+    },
+
+    {
+        "text": "Renewal Date",
+        "category": "membership information label"
+    },
+
+    {
+        "text": "Subscription Type",
+        "category": "subscription information label"
+    },
+
+    {
+        "text": "Start Date",
+        "category": "subscription information label"
+    },
+
+    {
+        "text": "End Date",
+        "category": "subscription information label"
+    },
+
+    {
+        "text": "Billing Cycle",
+        "category": "subscription information label"
+    },
+
+    {
+        "text": "Service Provider",
+        "category": "service information label"
+    },
+
+    {
+        "text": "Account Status",
+        "category": "service information label"
+    },
+
+    {
+        "text": "Service Plan",
+        "category": "service information label"
+    },
+
+    {
+        "text": "Technical Support",
+        "category": "service information label"
+    },
+
+    {
+        "text": "Project Title",
+        "category": "project information label"
+    },
+
+    {
+        "text": "Project Manager",
+        "category": "project information label"
+    },
+
+    {
+        "text": "Deadline",
+        "category": "project information label"
+    },
+
+    {
+        "text": "Budget Allocation",
+        "category": "project information label"
+    },
+
+    {
+        "text": "Project Description",
+        "category": "project information label"
+    },
+
+    {
+        "text": "Team Members",
+        "category": "project information label"
+    },
+
+    {
+        "text": "Milestones",
+        "category": "project information label"
+    },
+
+    {
+        "text": "Status Report",
+        "category": "project information label"
+    },
+
+    {
+        "text": "Client Name",
+        "category": "client information label"
+    },
+
+    {
+        "text": "Client ID",
+        "category": "client information label"
+    },
+
+    {
+        "text": "Contract Number",
+        "category": "client information label"
+    },
+
+    {
+        "text": "Service Agreement",
+        "category": "client information label"
+    },
+
+    {
+        "text": "Client Feedback",
+        "category": "client information label"
+    },
+
+    {
+        "text": "Meeting Date",
+        "category": "appointment label"
+    },
+
+    {
+        "text": "Appointment Time",
+        "category": "appointment label"
+    },
+
+    {
+        "text": "Consultation",
+        "category": "appointment label"
+    },
+
+    {
+        "text": "Location",
+        "category": "appointment label"
+    },
+
+    {
+        "text": "Agenda",
+        "category": "appointment label"
+    },
+
+    {
+        "text": "Follow-up Date",
+        "category": "appointment label"
+    },
+
+    {
+        "text": "Order Number",
+        "category": "purchase information label"
+    },
+
+    {
+        "text": "Purchase Date",
+        "category": "purchase information label"
+    },
+
+    {
+        "text": "Product Name",
+        "category": "purchase information label"
+    },
+
+    {
+        "text": "Quantity",
+        "category": "purchase information label"
+    },
+
+    {
+        "text": "Total Cost",
+        "category": "purchase information label"
+    },
+
+    {
+        "text": "Vendor",
+        "category": "purchase information label"
+    },
+
+    {
+        "text": "Return Policy",
+        "category": "purchase information label"
+    },
+
+    {
+        "text": "Warranty Period",
+        "category": "product information label"
+    },
+
+    {
+        "text": "Serial Number",
+        "category": "product information label"
+    },
+
+    {
+        "text": "Manufacturer",
+        "category": "product information label"
+    },
+
+    {
+        "text": "Model Number",
+        "category": "product information label"
+    },
+
+    {
+        "text": "Product Specifications",
+        "category": "product information label"
+    },
+
+    {
+        "text": "User Guide",
+        "category": "product information label"
+    },
+
+    {
+        "text": "Voter Registration Number",
+        "category": "government identification label"
+    },
+
+    {
+        "text": "Legislation Number",
+        "category": "legal document label"
+    },
+
+    {
+        "text": "Public Notice",
+        "category": "legal document label"
+    },
+
+    {
+        "text": "Government Issued ID Number",
+        "category": "government identification label"
+    },
+
+    {
+        "text": "Taxpayer Identification Number",
+        "category": "financial information label"
+    },
+
+    {
+        "text": "Property Tax Assessment",
+        "category": "financial information label"
+    },
+
+    {
+        "text": "Building Permit Number",
+        "category": "permit information label"
+    },
+
+    {
+        "text": "Zoning Classification",
+        "category": "legal document label"
+    },
+
+    {
+        "text": "Land Use Code",
+        "category": "legal document label"
+    },
+
+    {
+        "text": "Public Record Document",
+        "category": "legal document label"
+    },
+
+    {
+        "text": "Election Date",
+        "category": "government event label"
+    },
+
+    {
+        "text": "Polling Location",
+        "category": "government event label"
+    },
+
+    {
+        "text": "Census Data",
+        "category": "statistical data label"
+    },
+
+    {
+        "text": "Demographic Information",
+        "category": "statistical data label"
+    },
+
+    {
+        "text": "Government Budget Report",
+        "category": "financial document label"
+    },
+
+    {
+        "text": "Grant Application",
+        "category": "financial document label"
+    },
+
+    {
+        "text": "Public Service Announcement",
+        "category": "government communication label"
+    },
+
+    {
+        "text": "Military Service Record",
+        "category": "government identification label"
+    },
+
+    {
+        "text": "Diplomatic Correspondence",
+        "category": "government communication label"
+    },
+
+    {
+        "text": "Passport Application",
+        "category": "immigration label"
+    },
+
+    {
+        "text": "Visa Application Number",
+        "category": "immigration label"
+    },
+
+    {
+        "text": "Naturalization Document",
+        "category": "immigration label"
+    },
+
+    {
+        "text": "Legislative Bill",
+        "category": "legal document label"
+    },
+
+    {
+        "text": "Court Case Number",
+        "category": "legal document label"
+    },
+
+    {
+        "text": "Judicial Opinion",
+        "category": "legal document label"
+    },
+
+    {
+        "text": "Law Enforcement Report",
+        "category": "legal document label"
+    },
+
+    {
+        "text": "Environmental Impact Statement",
+        "category": "policy document label"
+    },
+
+    {
+        "text": "Health and Safety Guidelines",
+        "category": "policy document label"
+    },
+
+    {
+        "text": "Educational Standards",
+        "category": "policy document label"
+    },
+
+    {
+        "text": "Public Transportation Schedule",
+        "category": "public service information label"
+    },
+
+    {
+        "text": "Utility Bill",
+        "category": "financial information label"
+    },
+
+    {
+        "text": "Vaccination Record",
+        "category": "medical label"
+    },
+
+    {
+        "text": "Emergency Management Plan",
+        "category": "policy document label"
+    },
+
+    {
+        "text": "City Council Minutes",
+        "category": "government record label"
+    },
+
+    {
+        "text": "Government Contract",
+        "category": "legal document label"
+    },
+
+    {
+        "text": "Public Sector Job Posting",
+        "category": "employment information label"
+    },
+
+    {
+        "text": "Policyholder Name",
+        "category": "insurance information label"
+    },
+
+    {
+        "text": "Insurance Claim Date",
+        "category": "insurance information label"
+    },
+
+    {
+        "text": "Insured Property Address",
+        "category": "insurance information label"
+    },
+
+    {
+        "text": "Policy Effective Date",
+        "category": "insurance information label"
+    },
+
+    {
+        "text": "Deductible Amount",
+        "category": "insurance information label"
+    },
+
+    {
+        "text": "Coverage Limits",
+        "category": "insurance information label"
+    },
+
+    {
+        "text": "Risk Assessment",
+        "category": "insurance information label"
+    },
+
+    {
+        "text": "Insurance Agent Name",
+        "category": "insurance information label"
+    },
+
+    {
+        "text": "Insurance Premium",
+        "category": "financial information label"
+    },
+
+    {
+        "text": "Property Listing",
+        "category": "real estate label"
+    },
+
+    {
+        "text": "Real Estate Agent",
+        "category": "real estate label"
+    },
+
+    {
+        "text": "Mortgage Lender",
+        "category": "real estate label"
+    },
+
+    {
+        "text": "Lease Agreement",
+        "category": "legal document label"
+    },
+
+    {
+        "text": "Rental Application",
+        "category": "real estate label"
+    },
+
+    {
+        "text": "Home Inspection Report",
+        "category": "real estate label"
+    },
+
+    {
+        "text": "Closing Date",
+        "category": "real estate label"
+    },
+
+    {
+        "text": "Landlord Name",
+        "category": "real estate label"
+    },
+
+    {
+        "text": "Tenant Name",
+        "category": "real estate label"
+    },
+
+    {
+        "text": "Property Value",
+        "category": "financial information label"
+    },
+
+    {
+        "text": "Commission Rate",
+        "category": "financial information label"
+    },
+
+    {
+        "text": "Building Code",
+        "category": "legal document label"
+    },
+
+    {
+        "text": "Driver's License Expiry Date",
+        "category": "personal information label"
+    },
+
+    {
+        "text": "Mother's Maiden Name",
+        "category": "personal information label"
+    },
+
+    {
+        "text": "Previous Address",
+        "category": "address label"
+    },
+
+    {
+        "text": "Place of Birth",
+        "category": "personal information label"
+    },
+
+    {
+        "text": "Marriage Certificate Number",
+        "category": "personal information label"
+    },
+
+    {
+        "text": "Divorce Decree",
+        "category": "legal document label"
+    },
+
+    {
+        "text": "Next of Kin",
+        "category": "personal information label"
+    },
+
+    {
+        "text": "Religious Beliefs",
+        "category": "personal information label"
+    },
+
+    {
+        "text": "Political Affiliation",
+        "category": "personal information label"
+    },
+
+    {
+        "text": "Fingerprint",
+        "category": "biometric label"
+    },
+
+    {
+        "text": "DNA Profile",
+        "category": "biometric label"
+    },
+
+    {
+        "text": "Emergency Contact Number",
+        "category": "personal information label"
+    },
+
+    {
+        "text": "Social Media Handles",
+        "category": "personal information label"
+    },
+
+    {
+        "text": "LinkedIn Profile",
+        "category": "personal information label"
+    },
+
+    {
+        "text": "Personal Blog URL",
+        "category": "personal information label"
+    },
+
+    {
+        "text": "Favorite Books",
+        "category": "personal information label"
+    },
+
+    {
+        "text": "Favorite Music",
+        "category": "personal information label"
+    },
+
+    {
+        "text": "Sports Interests",
+        "category": "personal information label"
+    },
+
+    {
+        "text": "Membership Clubs",
+        "category": "personal information label"
+    },
+
+    {
+        "text": "Volunteer Experience",
+        "category": "personal information label"
+    },
+
+    {
+        "text": "Personal Achievements",
+        "category": "personal information label"
+    },
+
+    {
+        "text": "Life Goals",
+        "category": "personal information label"
+    },
+
+    {
+        "text": "Personal Values",
+        "category": "personal information label"
+    },
+
+    {
+        "text": "Spiritual Beliefs",
+        "category": "personal information label"
+    },
+
+    {
+        "text": "Personality Traits",
+        "category": "personal information label"
+    },
+
+    {
+        "text": "Learning Preferences",
+        "category": "personal information label"
+    },
+
+    {
+        "text": "Career Aspirations",
+        "category": "personal information label"
+    },
+
+    {
+        "text": "Work-Life Balance Preferences",
+        "category": "personal information label"
+    },
+
+    {
+        "text": "Travel History",
+        "category": "personal information label"
+    },
+
+    {
+        "text": "Future Travel Plans",
+        "category": "personal information label"
+    },
+
+    {
+        "text": "Culinary Preferences",
+        "category": "personal information label"
+    },
+
+    {
+        "text": "Dietary Restrictions",
+        "category": "personal information label"
+    },
+
+    {
+        "text": "Fitness Routine",
+        "category": "personal information label"
+    },
+
+    {
+        "text": "Health Goals",
+        "category": "personal information label"
+    },
+
+    {
+        "text": "Family History",
+        "category": "personal information label"
+    },
+
+    {
+        "text": "Ancestry Information",
+        "category": "personal information label"
+    },
+
+    {
+       "text": "Personal Diary Entries",
+        "category": "personal information label"
+    },
+
+    {
+        "text": "Life Milestones",
+        "category": "personal information label"
+    },
+
+    {
+        "text": "Personal Projects",
+        "category": "personal information label"
+    },
+
+    {
+        "text": "Habit Tracking Data",
+        "category": "personal information label"
+    },
+
+    {
+        "text": "Job Title",
+        "category": "employment information label"
+    },
+
+    {
+        "text": "Department",
+        "category": "employment information label"
+    },
+
+    {
+        "text": "Supervisor Name",
+        "category": "employment information label"
+    },
+
+    {
+        "text": "Employee ID",
+        "category": "employment information label"
+    },
+
+    {
+        "text": "Hire Date",
+        "category": "employment information label"
+    },
+
+    {
+        "text": "Annual Salary",
+        "category": "financial information label"
+    },
+
+    {
+        "text": "Bonus Structure",
+        "category": "financial information label"
+    },
+
+    {
+        "text": "Employee Benefits",
+        "category": "employment information label"
+    },
+
+    {
+        "text": "Performance Review",
+        "category": "employment information label"
+    },
+
+    {
+        "text": "Professional Development Plan",
+        "category": "employment information label"
+    },
+
+    {
+        "text": "Work Schedule",
+        "category": "employment information label"
+    },
+
+    {
+        "text": "Attendance Record",
+        "category": "employment information label"
+    },
+
+    {
+        "text": "Vacation Policy",
+        "category": "employment information label"
+    },
+
+    {
+        "text": "Sick Leave Balance",
+        "category": "employment information label"
+    },
+
+    {
+       "text": "Remote Work Policy",
+        "category": "employment information label"
+    },
+
+    {
+        "text": "Expense Reimbursement",
+        "category": "financial information label"
+    },
+
+    {
+        "text": "Travel Allowance",
+        "category": "financial information label"
+    },
+
+    {
+        "text": "Staff Meeting Minutes",
+        "category": "employment information label"
+    },
+
+    {
+        "text": "Internal Memo",
+        "category": "employment information label"
+    },
+
+    {
+        "text": "Organizational Chart",
+        "category": "employment information label"
+    },
+
+    {
+        "text": "Employee Handbook",
+        "category": "employment information label"
+    },
+
+    {
+        "text": "Conflict Resolution Policy",
+        "category": "employment information label"
+    },
+
+    {
+        "text": "Non-Disclosure Agreement",
+        "category": "legal document label"
+    },
+
+    {
+        "text": "Employment Contract",
+        "category": "legal document label"
+    },
+
+    {
+        "text": "Resignation Letter",
+        "category": "employment information label"
+    },
+
+    {
+        "text": "Promotion Letter",
+        "category": "employment information label"
+    },
+
+    {
+        "text": "Job Description",
+        "category": "employment information label"
+    },
+
+    {
+        "text": "Employee Recognition Award",
+        "category": "employment information label"
+    },
+
+    {
+        "text": "Workplace Safety Guidelines",
+        "category": "policy document label"
+    },
+
+    {
+        "text": "Equal Opportunity Policy",
+        "category": "policy document label"
+    },
+
+    {
+        "text": "Harassment Policy",
+        "category": "policy document label"
+    },
+
+    {
+        "text": "Organizational Structure",
+        "category": "employment information label"
+    },
+    {
+        "text": "Team Hierarchy",
+        "category": "employment information label"
+    },
+    {
+        "text": "Office Location",
+        "category": "employment information label"
+    },
+    {
+        "text": "Business Unit",
+        "category": "employment information label"
+    },
+    {
+        "text": "Job Responsibilities",
+        "category": "employment information label"
+    },
+    {
+        "text": "Performance Objectives",
+        "category": "employment information label"
+    },
+    {
+        "text": "Employee Training Records",
+        "category": "employment information label"
+    },
+    {
+        "text": "Work Anniversary",
+        "category": "employment information label"
+    },
+    {
+        "text": "Promotion History",
+        "category": "employment information label"
+    },
+    {
+        "text": "Employee Engagement Survey",
+        "category": "employment information label"
+    },
+    {
+        "text": "Exit Interview Notes",
+        "category": "employment information label"
+    },
+    {
+        "text": "Health Insurance Plan",
+        "category": "employment information label"
+    },
+    {
+        "text": "Retirement Plan Details",
+        "category": "financial information label"
+    },
+    {
+        "text": "Stock Options Details",
+        "category": "financial information label"
+    },
+    {
+        "text": "Compliance Training Completion",
+        "category": "employment information label"
+    },
+    {
+        "text": "Work Permit Status",
+        "category": "legal document label"
+    },
+    {
+        "text": "Business Travel History",
+        "category": "travel information label"
+    },
+    {
+        "text": "Professional Membership",
+        "category": "membership information label"
+    },
+    {
+        "text": "Employee Satisfaction Score",
+        "category": "employment information label"
+    },
+    {
+        "text": "Company Awards",
+        "category": "professional information label"
+    },
+    {
+        "text": "Business Strategy Documents",
+        "category": "employment information label"
+    },
+    {
+        "text": "Company Goals and Objectives",
+        "category": "employment information label"
+    },
+    {
+        "text": "Employee Feedback Form",
+        "category": "employment information label"
+    },
+    {
+        "text": "Corporate Social Responsibility Initiatives",
+        "category": "policy document label"
+    },
+    {
+        "text": "Workforce Demographics",
+        "category": "statistical data label"
+    },
+    {
+        "text": "Employee Turnover Rate",
+        "category": "statistical data label"
+    },
+    {
+        "text": "Training Budget",
+        "category": "financial information label"
+    },
+    {
+        "text": "Corporate Governance Policies",
+        "category": "policy document label"
+    },
+    {
+        "text": "Internal Audit Reports",
+        "category": "financial document label"
+    },
+    {
+        "text": "Employee Grievance Records",
+        "category": "employment information label"
+    },
+    {
+        "text": "Succession Planning Documents",
+        "category": "employment information label"
+    },
+    {
+        "text": "Operational Efficiency Reports",
+        "category": "statistical data label"
+    },
+    {
+        "text": "Corporate Tax Records",
+        "category": "financial information label"
+    },
+    {
+        "text": "Regulatory Compliance Certificates",
+        "category": "legal document label"
+    },
+    {
+        "text": "Business Continuity Plan",
+        "category": "policy document label"
+    },
+    {
+        "text": "Employee Wellbeing Programs",
+        "category": "employment information label"
+    },
+    {
+        "text": "Diversity and Inclusion Initiatives",
+        "category": "policy document label"
+    },
+    {
+        "text": "Company Newsletter",
+        "category": "employment information label"
+    },
+    {
+        "text": "Employee Referral Program",
+        "category": "employment information label"
+    },
+    {
+        "text": "Business License",
+        "category": "legal document label"
+    },
+    {
+        "text": "Corporate Ethics Policy",
+        "category": "policy document label"
+    },
+    {
+        "text": "Employee Onboarding Guide",
+        "category": "employment information label"
+    },
+    {
+        "text": "Business Expansion Plans",
+        "category": "employment information label"
+    },
+    {
+        "text": "Corporate Partnership Agreements",
+        "category": "legal document label"
+    },
+
+    {
+        "text": "Health Insurance Provider",
+        "category": "insurance information label"
+    },
+
+    {
+        "text": "Plan Type",
+        "category": "insurance information label"
+    },
+
+    {
+        "text": "Member ID",
+        "category": "insurance information label"
+    },
+
+    {
+        "text": "Group Number",
+        "category": "insurance information label"
+    },
+
+    {
+        "text": "Coverage Start Date",
+        "category": "insurance information label"
+    },
+
+    {
+        "text": "Coverage End Date",
+        "category": "insurance information label"
+    },
+
+    {
+        "text": "Pre-Existing Condition",
+        "category": "medical label"
+    },
+
+    {
+        "text": "Co-Pay Amount",
+        "category": "financial information label"
+    },
+
+    {
+        "text": "In-Network Provider",
+        "category": "insurance information label"
+    },
+
+    {
+        "text": "Out-of-Pocket Maximum",
+        "category": "financial information label"
+    },
+
+    {
+        "text": "Dependent Coverage",
+        "category": "insurance information label"
+    },
+
+    {
+        "text": "Voter ID",
+        "category": "government identification label"
+    },
+
+    {
+        "text": "Public Hearing Date",
+        "category": "government event label"
+    },
+
+    {
+        "text": "Referendum",
+        "category": "government event label"
+    },
+
+    {
+        "text": "Municipal Ordinance",
+        "category": "legal document label"
+    },
+
+    {
+        "text": "State Statute",
+        "category": "legal document label"
+    },
+
+    {
+        "text": "Federal Regulation",
+        "category": "legal document label"
+    },
+
+    {
+        "text": "Public Works Project",
+        "category": "government project label"
+    },
+
+    {
+        "text": "Urban Development Plan",
+        "category": "policy document label"
+    },
+
+    {
+        "text": "Foreign Policy Statement",
+        "category": "government communication label"
+    },
+
+    {
+        "text": "Immigration Status",
+        "category": "immigration label"
+    },
+
+    {
+        "text": "Government Grant",
+        "category": "financial document label"
+    },
+
+    {
+        "text": "Student ID",
+        "category": "identification number label"
+    },
+
+    {
+        "text": "Library Card Number",
+        "category": "identification number label"
+    },
+
+    {
+        "text": "Employee Badge Number",
+        "category": "identification number label"
+    },
+
+    {
+        "text": "Club Membership ID",
+        "category": "identification number label"
+    },
+
+    {
+        "text": "Gym Membership Number",
+        "category": "identification number label"
+    },
+
+    {
+        "text": "Frequent Flyer Number",
+        "category": "identification number label"
+    },
+
+    {
+        "text": "Loyalty Card Number",
+        "category": "identification number label"
+    },
+
+    {
+        "text": "#",
+        "category": "symbol label"
+    }
+]
